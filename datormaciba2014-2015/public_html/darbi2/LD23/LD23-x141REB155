@@ -1,0 +1,7 @@
+\documentclass{article} \usepackage[utf8]{inputenc} \begin{document} 
+\begin{flushright} Reinis Prockans, 141REB155 \end{flushright} 
+\begin{center} {\huge LD23} \end{center} \begin{flushleft} Darba sakuma 
+datums - 16.02.2015 Darba izpildes datums - 01.03.2015 Ieklautie faili: 
+231.png 232.png 233.png 234.png 235.png 236.png 237.png 238.png 239.png 
+\end{flushleft} \begin{flushleft} Secinajumi: Iemacijamies stradat ar 
+ImageMagick. \end{flushleft} \end{document}

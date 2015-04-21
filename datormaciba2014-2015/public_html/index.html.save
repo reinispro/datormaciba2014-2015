@@ -1,0 +1,38 @@
+<HEAD>
+<TITLE> Esiet sveicināti manā mājas lapā! </TITLE>
+<meta charset="UTF-8">
+</HEAD>
+<BODY>
+<h2></h2>
+ <img src="http://p1.pichost.me/i/63/1874845.jpg" alt="SPACE" style=";width:100%;height:350">
+<P>Sveiki! Mani sauc Reinis Prockāns.
+Es esmu RTU ETF pirmā kursa students.</P>
+</br>
+<LI> 
+<form name="jump">
+<p align="left">
+<select name="Noderīgas lapas">
+<option value="http://www.w3schools.com">W3 skola</option>
+<option value="https://213.175.92.37/">Skaitļošanas centra lapa</option>
+<option value="http://ortus.lv">ORTUS</option>
+<option value="URL">Text that will appear in the choices</option>
+<option value="URL">Text that will appear in the choices</option>
+</select>
+<input type="button" onClick="location=document.jump.menu.options[document.jump.menu.selectedIndex].value;" value="Doties">
+</p>
+</form>
+<a href="https://213.175.92.37/~x141REB143">Mana drauga studiju lapa </a>
+</br>
+<LI>
+<a href="https://213.175.92.37/~x141REB155/LD21H/211.html"><font color="pink">211 uzdevums</font> </a>
+</br>
+<LI>
+<a href="https://213.175.92.37/~x141REB155/LD21H/212.html"><font color="yellow">212 uzdevums </font></a>
+</br>
+<LI>
+<a href="https://213.175.92.37/~x141REB155/228.svg"><font color="red">228.svg</font></a>
+</LI>
+</BODY>
+<meta charset="ISO-8859-1">
+</HTML>
+
